@@ -1,0 +1,11 @@
+index:
+  title: 主页
+  tags: 标签
+  about: 关于
+  search: 搜索
+  friendlink: 友链
+
+post:
+  busuanzi:
+    visit: 本文总阅读量：
+    time: 次

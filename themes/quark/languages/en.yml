@@ -1,0 +1,11 @@
+index:
+  title: Home
+  tags: Tags
+  about: About
+  search: Search
+  friendlink: Friendlink
+
+post:
+  busuanzi:
+    visit: This post has been read：
+    time: times
