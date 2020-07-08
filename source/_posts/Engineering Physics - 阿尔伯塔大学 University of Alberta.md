@@ -1,7 +1,7 @@
 ---
 title: Engineering Physics - 阿尔伯塔大学 University of Alberta
 time: 2020-07-08 17:22:14
-tags: [Engineering Physics,阿尔伯塔大学 University of Alberta]
+tags: [Engineering Physics,阿尔伯塔大学,University of Alberta]
 ---
 #### 1 专业招生
 > 招理科生  

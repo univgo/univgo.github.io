@@ -1,7 +1,7 @@
 ---
-title: 建筑学Architectural - 奥克兰大学 University of Auckland
+title: 建筑学/Architectural - 奥克兰大学 University of Auckland
 time: 2020-07-08 17:23:22
-tags: [建筑学Architectural,奥克兰大学 University of Auckland]
+tags: [建筑学,Architectural,奥克兰大学,University of Auckland]
 ---
 #### 1 专业招生
 > 交作品集就行

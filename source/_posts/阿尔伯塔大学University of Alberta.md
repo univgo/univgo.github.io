@@ -1,7 +1,7 @@
 ---
-title: 阿尔伯塔大学University of Alberta
+title: 阿尔伯塔大学 University of Alberta
 time: 2020-07-08 10:36:12
-tags: [阿尔伯塔大学University of Alberta]
+tags: [阿尔伯塔大学,University of Alberta]
 ---
 #### 1 学校级别
 > 国外

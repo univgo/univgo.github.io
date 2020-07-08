@@ -1,7 +1,7 @@
 ---
-title: 统计学 - 波士顿大学Boston University
+title: 统计学 - 波士顿大学 Boston University
 time: 2020-07-08 17:24:35
-tags: [统计学,波士顿大学Boston University]
+tags: [统计学,波士顿大学,Boston University]
 ---
 #### 1 专业招生
 > 招理科生  

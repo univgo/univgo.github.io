@@ -1,7 +1,7 @@
 ---
-title: 社会学 - 东洛杉矶学院East-Los-Angeles-Community-College
+title: 社会学 - 东洛杉矶学院 East Los Angeles Community College
 time: 2020-07-08 17:24:28
-tags: [社会学,东洛杉矶学院East]
+tags: [社会学,东洛杉矶学院,East Los Angeles Community College]
 ---
 #### 1 专业招生
 > 文理兼收

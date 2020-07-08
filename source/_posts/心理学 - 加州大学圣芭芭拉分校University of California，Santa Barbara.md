@@ -1,7 +1,7 @@
 ---
-title: 心理学 - 加州大学圣芭芭拉分校University of California，Santa Barbara
+title: 心理学 - 加州大学圣芭芭拉分校 University of California，Santa Barbara
 time: 2020-07-08 17:23:27
-tags: [心理学,加州大学圣芭芭拉分校University of California，Santa Barbara]
+tags: [心理学,加州大学圣芭芭拉分校,University of California Santa Barbara, UCSB]
 ---
 #### 1 专业招生
 > 文理兼收

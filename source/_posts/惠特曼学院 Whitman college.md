@@ -1,7 +1,7 @@
 ---
-title: 惠特曼学院 Whitman college
+title: 惠特曼学院 Whitman College
 time: 2020-07-08 10:35:55
-tags: [惠特曼学院 Whitman college]
+tags: [惠特曼学院,Whitman College]
 ---
 #### 1 学校级别
 > 国外

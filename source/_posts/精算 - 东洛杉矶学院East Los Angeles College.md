@@ -1,7 +1,7 @@
 ---
-title: 精算 - 东洛杉矶学院East Los Angeles College
+title: 精算 - 东洛杉矶学院 East Los Angeles College
 time: 2020-07-08 17:24:30
-tags: [精算,东洛杉矶学院East Los Angeles College]
+tags: [精算,东洛杉矶学院,East Los Angeles College]
 ---
 #### 1 专业招生
 > 都招嘿嘿嘿

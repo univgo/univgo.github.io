@@ -1,7 +1,7 @@
 ---
-title: 数学 经济 Math Econ - 加州大学洛杉矶分校University of California, Los Angeles
+title: 数学/经济 Math/Econ - 加州大学洛杉矶分校 University of California, Los Angeles
 time: 2020-07-08 17:23:35
-tags: [数学 经济 Math Econ,加州大学洛杉矶分校University of California, Los Angeles]
+tags: [数学,经济,Math,Econ,加州大学洛杉矶分校,University of California, Los Angeles]
 ---
 #### 2 教学思路
 > 2+2，这是数学专业，辅助经济

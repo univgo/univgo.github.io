@@ -1,7 +1,7 @@
 ---
-title: 电气工程 - 阿尔伯塔大学University-of-Alberta
+title: 电气工程 - 阿尔伯塔大学 University of Alberta
 time: 2020-07-08 17:24:25
-tags: [电气工程,阿尔伯塔大学University]
+tags: [电气工程,阿尔伯塔大学,University of Alberta]
 ---
 #### 1 专业招生
 > 文理兼收  

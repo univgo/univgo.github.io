@@ -1,7 +1,7 @@
 ---
-title: 加州大学圣芭芭拉分校 University of California，Santa Barbara
+title: 加州大学圣芭芭拉分校 University of California Santa Barbara
 time: 2020-07-08 10:35:10
-tags: [加州大学圣芭芭拉分校 University of California，Santa Barbara]
+tags: [加州大学圣芭芭拉分校, University of California Santa Barbara, UCSB]
 ---
 #### 1 学校级别
 > 国外

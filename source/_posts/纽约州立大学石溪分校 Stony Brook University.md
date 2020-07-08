@@ -1,7 +1,7 @@
 ---
 title: 纽约州立大学石溪分校 Stony Brook University【精华】
 time: 2020-07-08 10:36:04
-tags: [纽约州立大学石溪分校 Stony Brook University]
+tags: [纽约州立大学石溪分校,Stony Brook University]
 ---
 #### 1 学校级别
 > 国外

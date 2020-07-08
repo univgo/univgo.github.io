@@ -1,7 +1,7 @@
 ---
-title: 波士顿大学Boston University【精华】
+title: 波士顿大学 Boston University【精华】
 time: 2020-07-08 10:35:58
-tags: [波士顿大学Boston University]
+tags: [波士顿大学,Boston University]
 ---
 #### 1 学校级别
 > 国外

@@ -1,7 +1,7 @@
 ---
-title: 东洛杉矶学院East Los Angeles College
+title: 东洛杉矶学院 East Los Angeles College
 time: 2020-07-08 10:34:55
-tags: [东洛杉矶学院East Los Angeles College]
+tags: [东洛杉矶学院,East Los Angeles College]
 ---
 #### 1 学校级别
 > 国外

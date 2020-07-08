@@ -1,7 +1,7 @@
 ---
-title: 人类学Anthropology 哲学Philosophy - 惠特曼学院Whitman College
+title: 人类学/Anthropology 哲学/Philosophy - 惠特曼学院 Whitman College
 time: 2020-07-08 17:22:26
-tags: [人类学Anthropology 哲学Philosophy,惠特曼学院Whitman College]
+tags: [人类学,Anthropology,哲学,Philosophy,惠特曼学院,Whitman College]
 ---
 #### 1 专业招生
 > 文理兼收

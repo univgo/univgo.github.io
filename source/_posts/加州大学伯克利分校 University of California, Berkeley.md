@@ -1,7 +1,7 @@
 ---
 title: 加州大学伯克利分校 University of California Berkeley【精华】
 time: 2020-07-08 10:35:09
-tags: [加州大学伯克利分校 University of California Berkeley]
+tags: [加州大学伯克利分校,University of California Berkeley,UCB]
 ---
 #### 1 学校级别
 > 国外

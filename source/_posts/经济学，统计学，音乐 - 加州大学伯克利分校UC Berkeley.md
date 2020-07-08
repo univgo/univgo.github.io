@@ -1,7 +1,7 @@
 ---
-title: 经济学，统计学，音乐 - 加州大学伯克利分校UC Berkeley
+title: 经济学，统计学，音乐 - 加州大学伯克利分校 UC Berkeley
 time: 2020-07-08 17:24:32
-tags: [经济学，统计学，音乐,加州大学伯克利分校UC Berkeley]
+tags: [经济学,统计学,音乐,加州大学伯克利分校,UC Berkeley,UCB]
 ---
 #### 1 专业招生
 > 文理兼收

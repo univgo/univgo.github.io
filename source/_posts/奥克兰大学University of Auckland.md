@@ -1,7 +1,7 @@
 ---
-title: 奥克兰大学University of Auckland
+title: 奥克兰大学 University of Auckland
 time: 2020-07-08 10:35:49
-tags: [奥克兰大学University of Auckland]
+tags: [奥克兰大学,University of Auckland]
 ---
 #### 1 学校级别
 > 国外
