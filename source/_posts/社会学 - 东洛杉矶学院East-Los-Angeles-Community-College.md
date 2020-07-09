@@ -59,12 +59,12 @@ tags: [社会学,东洛杉矶学院,East Los Angeles Community College]
 
 1 位同学填写了专业信息
 ***
-[东洛杉矶学院East Los Angeles Community College](http://www.jianshu.com/p/1aec7ad9ce26) / [学校（全部）](http://www.jianshu.com/p/3efa6bcca419) / [专业（全部）](http://www.jianshu.com/p/2d4c6d3552c2) / [总览页](http://www.jianshu.com/p/445daeb4fa00) / [学校官网对本专业介绍](http://www.elac.edu/academics/departments/socialsci/sociology/index.htm)
+[东洛杉矶学院East Los Angeles Community College](https://univgo.github.io/2020/07/08/1aec7ad9ce26) / [学校（全部）](https://univgo.github.io/2020/07/08/3efa6bcca419) / [专业（全部）](https://univgo.github.io/2020/07/08/2d4c6d3552c2) / [总览页](https://univgo.github.io/2020/07/08/445daeb4fa00) / [学校官网对本专业介绍](http://www.elac.edu/academics/departments/socialsci/sociology/index.htm)
 #### 本校其它专业：
-[精算 - 东洛杉矶学院East Los Angeles Community](http://www.jianshu.com/p/9160b4c65599) 
+[精算 - 东洛杉矶学院East Los Angeles Community](https://univgo.github.io/2020/07/08/9160b4c65599) 
 #### 其它学校相似专业：
-- [人类学Anthropology 哲学Philosophy - 惠特曼学院Whitman College](http://www.jianshu.com/p/3735ca7f771c) 
-- [心理学 - 加州大学圣芭芭拉分校University of California，Santa Barbara](http://www.jianshu.com/p/ac97e73e99dd) 
+- [人类学Anthropology 哲学Philosophy - 惠特曼学院Whitman College](https://univgo.github.io/2020/07/08/3735ca7f771c) 
+- [心理学 - 加州大学圣芭芭拉分校University of California，Santa Barbara](https://univgo.github.io/2020/07/08/ac97e73e99dd) 
 
 
 有问题请在下面留言，会及时回复的~

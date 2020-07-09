@@ -59,12 +59,12 @@ tags: [心理学,加州大学圣芭芭拉分校,University of California Santa B
 
 1 位同学填写了本专业信息
 ***
-[加州大学圣芭芭拉分校University of California,Santa Barbara](http://www.jianshu.com/p/b003add8bcdb)
-  / [学校（全部）](http://www.jianshu.com/p/3efa6bcca419) / [专业（全部）](http://www.jianshu.com/p/2d4c6d3552c2) / [总览页](http://www.jianshu.com/p/445daeb4fa00) / [学校官网对本专业介绍](https://my.sa.ucsb.edu/catalog/Current/CollegesDepartments/ls-intro/psych.aspx?DeptTab=Undergraduate)
+[加州大学圣芭芭拉分校University of California,Santa Barbara](https://univgo.github.io/2020/07/08/b003add8bcdb)
+  / [学校（全部）](https://univgo.github.io/2020/07/08/3efa6bcca419) / [专业（全部）](https://univgo.github.io/2020/07/08/2d4c6d3552c2) / [总览页](https://univgo.github.io/2020/07/08/445daeb4fa00) / [学校官网对本专业介绍](https://my.sa.ucsb.edu/catalog/Current/CollegesDepartments/ls-intro/psych.aspx?DeptTab=Undergraduate)
 
 #### 其它学校相似专业：
-- [心理学 - 北京师范大学](http://www.jianshu.com/p/65204f4bc5da)
-- [应用心理学 - 西南大学](http://www.jianshu.com/p/ac6d9c3baabd)
+- [心理学 - 北京师范大学](https://univgo.github.io/2020/07/08/65204f4bc5da)
+- [应用心理学 - 西南大学](https://univgo.github.io/2020/07/08/ac6d9c3baabd)
 
 
 有问题请在下面留言，会及时回复的~

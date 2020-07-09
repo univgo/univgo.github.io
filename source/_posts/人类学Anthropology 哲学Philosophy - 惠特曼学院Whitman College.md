@@ -57,12 +57,12 @@ tags: [人类学,Anthropology,哲学,Philosophy,惠特曼学院,Whitman College]
 
 1 位同学填写了本专业信息
 ***
-[惠特曼学院Whitman college](http://www.jianshu.com/p/1d720faaa03c) / [学校（全部）](http://www.jianshu.com/p/3efa6bcca419) / [专业（全部）](http://www.jianshu.com/p/2d4c6d3552c2) / [总览页](http://www.jianshu.com/p/445daeb4fa00) / 
+[惠特曼学院Whitman college](https://univgo.github.io/2020/07/08/1d720faaa03c) / [学校（全部）](https://univgo.github.io/2020/07/08/3efa6bcca419) / [专业（全部）](https://univgo.github.io/2020/07/08/2d4c6d3552c2) / [总览页](https://univgo.github.io/2020/07/08/445daeb4fa00) / 
 学校官网对本专业介绍：
 [Anthropology 人类学](https://www.whitman.edu/academics/departments-and-programs/anthropology) / [Philosophy 哲学](https://www.whitman.edu/academics/departments-and-programs/philosophy)
 
 #### 其它学校相似专业：
-- [社会学 - 东洛杉矶学院East Los Angeles Community](http://www.jianshu.com/p/6b1a0db9cc4f) 
+- [社会学 - 东洛杉矶学院East Los Angeles Community](https://univgo.github.io/2020/07/08/6b1a0db9cc4f) 
 
 
 有问题请在下面留言，会及时回复的~

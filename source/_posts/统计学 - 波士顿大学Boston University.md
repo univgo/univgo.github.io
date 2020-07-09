@@ -49,10 +49,10 @@ tags: [统计学,波士顿大学,Boston University]
 
 1 位同学填写了本专业信息
 ***
-[波士顿大学Boston University](http://www.jianshu.com/p/75c3b6cef2c5) / [学校（全部）](http://www.jianshu.com/p/3efa6bcca419) / [专业（全部）](http://www.jianshu.com/p/2d4c6d3552c2) / [总览页](http://www.jianshu.com/p/445daeb4fa00) / [学校官网对本专业介绍](http://www.bu.edu/stat/undergraduate-program-information/)
+[波士顿大学Boston University](https://univgo.github.io/2020/07/08/75c3b6cef2c5) / [学校（全部）](https://univgo.github.io/2020/07/08/3efa6bcca419) / [专业（全部）](https://univgo.github.io/2020/07/08/2d4c6d3552c2) / [总览页](https://univgo.github.io/2020/07/08/445daeb4fa00) / [学校官网对本专业介绍](http://www.bu.edu/stat/undergraduate-program-information/)
 
 #### 其它学校相似专业：
-- [经济学，统计学，音乐 - 加州大学伯克利分校UC Berkeley](http://www.jianshu.com/p/6f5d585bf003) 
+- [经济学，统计学，音乐 - 加州大学伯克利分校UC Berkeley](https://univgo.github.io/2020/07/08/6f5d585bf003) 
 
 
 有问题请在下面留言，会及时回复的~

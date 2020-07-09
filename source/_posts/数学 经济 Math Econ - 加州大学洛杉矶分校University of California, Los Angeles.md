@@ -36,14 +36,14 @@ tags: [数学,经济,Math,Econ,加州大学洛杉矶分校,University of Califor
 
 1 位同学填写了专业信息
 ***
-[加州大学洛杉矶分校UCLA](https://www.jianshu.com/p/2c35063885ae) / [学校（全部）](http://www.jianshu.com/p/3efa6bcca419) / [专业（全部）](http://www.jianshu.com/p/2d4c6d3552c2) / [总览页](http://www.jianshu.com/p/445daeb4fa00) / [学校官网对本专业介绍]()
+[加州大学洛杉矶分校UCLA](https://univgo.github.io/2020/07/08/2c35063885ae) / [学校（全部）](https://univgo.github.io/2020/07/08/3efa6bcca419) / [专业（全部）](https://univgo.github.io/2020/07/08/2d4c6d3552c2) / [总览页](https://univgo.github.io/2020/07/08/445daeb4fa00) / [学校官网对本专业介绍]()
 #### 本校其它专业：
  
 #### 其它学校相似专业：
-- [精算-East Los Angeles Community](http://www.jianshu.com/p/9160b4c65599) 
-- [经济学-UC Berkeley](http://www.jianshu.com/p/6f5d585bf003) 
-- [商务（会计与金融）-墨尔本大学](http://www.jianshu.com/p/10fd46cef5ce) 
-- [会计 & 经济 - 悉尼大学](https://www.jianshu.com/p/c25491feffad)
+- [精算-East Los Angeles Community](https://univgo.github.io/2020/07/08/9160b4c65599) 
+- [经济学-UC Berkeley](https://univgo.github.io/2020/07/08/6f5d585bf003) 
+- [商务（会计与金融）-墨尔本大学](https://univgo.github.io/2020/07/08/10fd46cef5ce) 
+- [会计 & 经济 - 悉尼大学](https://univgo.github.io/2020/07/08/c25491feffad)
 
 
 有问题请在下面留言，会及时回复的~

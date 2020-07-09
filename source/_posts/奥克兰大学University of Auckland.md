@@ -47,13 +47,13 @@ tags: [奥克兰大学,University of Auckland]
 
 1 位同学填写了本校信息
 ***
-[学校（全部）](http://www.jianshu.com/p/3efa6bcca419) / [专业（全部）](http://www.jianshu.com/p/2d4c6d3552c2) / [总览页](http://www.jianshu.com/p/445daeb4fa00)
+[学校（全部）](https://univgo.github.io/2020/07/08/3efa6bcca419) / [专业（全部）](https://univgo.github.io/2020/07/08/2d4c6d3552c2) / [总览页](https://univgo.github.io/2020/07/08/445daeb4fa00)
 #### 本校专业：
-- [建筑学Arichitectural - 奥克兰大学University of Auckland](http://www.jianshu.com/p/69e5c0d698b0) 
+- [建筑学Arichitectural - 奥克兰大学University of Auckland](https://univgo.github.io/2020/07/08/建筑学Architectural%20-%20奥克兰大学%20University%20of%20Auckland) 
 
 #### 附近高校：
-[墨尔本大学The University of Melbourne](http://www.jianshu.com/p/961dfd5818a0) 
-[悉尼大学](https://www.jianshu.com/p/42b48ed22d8e)
+[墨尔本大学The University of Melbourne](https://univgo.github.io/2020/07/08/墨尔本大学%20The%20University%20of%20Melbourne) 
+[悉尼大学](https://univgo.github.io/2020/07/08/悉尼大学)
 
 
 有问题请在下面留言，我们会及时回复的~

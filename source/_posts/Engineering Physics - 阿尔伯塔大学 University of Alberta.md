@@ -59,11 +59,11 @@ tags: [Engineering Physics,阿尔伯塔大学,University of Alberta]
 
 1 位同学填写了本专业信息
 ***
-[阿尔伯塔大学University of Alberta](http://www.jianshu.com/p/a7200d06b3d7) / [学校（全部）](http://www.jianshu.com/p/3efa6bcca419) / [专业（全部）](http://www.jianshu.com/p/2d4c6d3552c2) / [总览页](http://www.jianshu.com/p/445daeb4fa00) 
+[阿尔伯塔大学University of Alberta](https://univgo.github.io/2020/07/08/阿尔伯塔大学University%20of%20Alberta) / [学校（全部）](https://univgo.github.io/2020/07/08/3efa6bcca419) / [专业（全部）](https://univgo.github.io/2020/07/08/2d4c6d3552c2) / [总览页](https://univgo.github.io/2020/07/08/445daeb4fa00) 
 #### 本校其它专业：
-[电气工程](http://www.jianshu.com/p/ac3b3c12d22e)
+[电气工程](https://univgo.github.io/2020/07/08/%E7%94%B5%E6%B0%94%E5%B7%A5%E7%A8%8B%20-%20%E9%98%BF%E5%B0%94%E4%BC%AF%E5%A1%94%E5%A4%A7%E5%AD%A6University-of-Alberta/)
 #### 其它学校相似专业：
-- [物理 - 纽约州立大学石溪分校](http://www.jianshu.com/p/ec8e51be9c77) 
+- [物理 - 纽约州立大学石溪分校](https://univgo.github.io/2020/07/08/物理%20-%20纽约州立大学石溪分校) 
 
 
 有问题请在下面留言，会及时回复的~

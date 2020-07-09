@@ -59,20 +59,20 @@ tags: [经济学,统计学,音乐,加州大学伯克利分校,UC Berkeley,UCB]
 
 1 位同学填写了本专业信息
 ***
-[加州大学伯克利分校UC Berkeley](http://www.jianshu.com/p/691533834d4b) / [学校（全部）](http://www.jianshu.com/p/3efa6bcca419) / [专业（全部）](http://www.jianshu.com/p/2d4c6d3552c2) / [总览页](http://www.jianshu.com/p/445daeb4fa00) / 
+[加州大学伯克利分校UC Berkeley](https://univgo.github.io/2020/07/08/691533834d4b) / [学校（全部）](https://univgo.github.io/2020/07/08/3efa6bcca419) / [专业（全部）](https://univgo.github.io/2020/07/08/2d4c6d3552c2) / [总览页](https://univgo.github.io/2020/07/08/445daeb4fa00) / 
 学校官网对本专业介绍：
 [经济学](https://www.econ.berkeley.edu/undergrad)
 [音乐](http://music.berkeley.edu/academic-programs/undergraduate-degree-program/major-program/)
 [统计学](http://statistics.berkeley.edu/programs/undergrad/major)
 
 #### 本校其它专业：
-- [计算机科学（人工智能与机器学习） - 加州大学伯克利分校UC Berkeley](https://www.jianshu.com/p/5bcaa17993d3)
+- [计算机科学（人工智能与机器学习） - 加州大学伯克利分校UC Berkeley](https://univgo.github.io/2020/07/08/5bcaa17993d3)
 
 #### 其它学校相似专业：
-- [精算 - 东洛杉矶学院East Los Angeles College](http://www.jianshu.com/p/9160b4c65599) 
-- [经济学 - 加州大学伯克利分校UC Berkeley](http://www.jianshu.com/p/6f5d585bf003) 
-- [统计学 - 波士顿大学Boston University](http://www.jianshu.com/p/e7ef8e1d323a) 
-- [经济学实验班 - 北京师范大学](http://www.jianshu.com/p/905157b079f8)
+- [精算 - 东洛杉矶学院East Los Angeles College](https://univgo.github.io/2020/07/08/9160b4c65599) 
+- [经济学 - 加州大学伯克利分校UC Berkeley](https://univgo.github.io/2020/07/08/6f5d585bf003) 
+- [统计学 - 波士顿大学Boston University](https://univgo.github.io/2020/07/08/e7ef8e1d323a) 
+- [经济学实验班 - 北京师范大学](https://univgo.github.io/2020/07/08/905157b079f8)
 
 
 有问题请在下面留言，会及时回复的~

@@ -57,18 +57,18 @@ tags: [波士顿大学,Boston University]
 
 1 位同学填写了本校信息
 ***
-[学校（全部）](http://www.jianshu.com/p/3efa6bcca419) / [专业（全部）](http://www.jianshu.com/p/2d4c6d3552c2) / [总览页](http://www.jianshu.com/p/445daeb4fa00)
+[学校（全部）](https://univgo.github.io/2020/07/08/3efa6bcca419) / [专业（全部）](https://univgo.github.io/2020/07/08/2d4c6d3552c2) / [总览页](https://univgo.github.io/2020/07/08/445daeb4fa00)
 #### 本校专业：
-- [统计学 - 波士顿大学Boston University](http://www.jianshu.com/p/e7ef8e1d323a) 
+- [统计学 - 波士顿大学Boston University](https://univgo.github.io/2020/07/08/e7ef8e1d323a) 
 
 #### 附近高校：
-- [East Los Angeles Community College](http://www.jianshu.com/p/1aec7ad9ce26) 
-- [加州大学洛杉矶分校UCLA](https://www.jianshu.com/p/2c35063885ae)
-- [加州大学伯克利分校University of California,Berkeley](http://www.jianshu.com/p/691533834d4b) 
-- [加州大学圣芭芭拉分校University of California,Santa Barbara](http://www.jianshu.com/p/b003add8bcdb) 
-- [惠特曼学院Whitman college](http://www.jianshu.com/p/1d720faaa03c) 
-- [纽约州立大学石溪分校Stony Brook University](http://www.jianshu.com/p/7b27a919ad55)
-- [阿尔伯塔大学University of Alberta](http://www.jianshu.com/p/a7200d06b3d7)
+- [East Los Angeles Community College](https://univgo.github.io/2020/07/08/1aec7ad9ce26) 
+- [加州大学洛杉矶分校UCLA](https://univgo.github.io/2020/07/08/2c35063885ae)
+- [加州大学伯克利分校University of California,Berkeley](https://univgo.github.io/2020/07/08/691533834d4b) 
+- [加州大学圣芭芭拉分校University of California,Santa Barbara](https://univgo.github.io/2020/07/08/b003add8bcdb) 
+- [惠特曼学院Whitman college](https://univgo.github.io/2020/07/08/1d720faaa03c) 
+- [纽约州立大学石溪分校Stony Brook University](https://univgo.github.io/2020/07/08/7b27a919ad55)
+- [阿尔伯塔大学University of Alberta](https://univgo.github.io/2020/07/08/a7200d06b3d7)
 
 
 
