@@ -49,10 +49,10 @@ tags: [统计学,波士顿大学,Boston University]
 
 1 位同学填写了本专业信息
 ***
-[波士顿大学Boston University](https://univgo.github.io/2020/07/08/波士顿大学Boston%20University) / [学校（全部）](https://univgo.github.io/2020/07/08/3efa6bcca419) / [专业（全部）](https://univgo.github.io/2020/07/08/2d4c6d3552c2) / [总览页](https://univgo.github.io/2020/07/08/445daeb4fa00) / [学校官网对本专业介绍](http://www.bu.edu/stat/undergraduate-program-information/)
+[波士顿大学Boston University](https://univgo.github.io/2020/07/08/波士顿大学Boston%20University) / [学校（全部）](https://univgo.github.io/2020/07/09/学校汇总页) / [专业（全部）](https://univgo.github.io/2020/07/09/专业汇总页) / [总览页](https://univgo.github.io/2020/07/09/总览) / [学校官网对本专业介绍](http://www.bu.edu/stat/undergraduate-program-information/)
 
 #### 其它学校相似专业：
-- [经济学，统计学，音乐 - 加州大学伯克利分校UC Berkeley](https://univgo.github.io/2020/07/08/6f5d585bf003) 
+- [经济学，统计学，音乐 - 加州大学伯克利分校UC Berkeley](https://univgo.github.io/2020/07/08/经济学，统计学，音乐%20-%20加州大学伯克利分校UC%20Berkeley) 
 
 
 有问题请在下面留言，会及时回复的~

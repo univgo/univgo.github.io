@@ -61,11 +61,11 @@ tags: [建筑学,Architectural,奥克兰大学,University of Auckland]
 
 1 位同学填写了本专业信息
 ***
-[奥克兰大学University of Auckland](https://univgo.github.io/2020/07/08/奥克兰大学University%20of%20Auckland)  / [学校（全部）](https://univgo.github.io/2020/07/08/3efa6bcca419) / [专业（全部）](https://univgo.github.io/2020/07/08/2d4c6d3552c2) / [总览页](https://univgo.github.io/2020/07/08/445daeb4fa00) / [学校官网对本专业介绍](https://www.auckland.ac.nz/study-options/programmes/undergraduate/6206/bachelor-of-architectural-studies-bas)
+[奥克兰大学University of Auckland](https://univgo.github.io/2020/07/08/奥克兰大学University%20of%20Auckland)  / [学校（全部）](https://univgo.github.io/2020/07/09/学校汇总页) / [专业（全部）](https://univgo.github.io/2020/07/09/专业汇总页) / [总览页](https://univgo.github.io/2020/07/09/总览) / [学校官网对本专业介绍](https://www.auckland.ac.nz/study-options/programmes/undergraduate/6206/bachelor-of-architectural-studies-bas)
 
 #### 其它学校相似专业：
-- [建筑学 - 北京建筑大学](https://univgo.github.io/2020/07/08/41ec2a97fb2d)
-- [建筑学 - 华中科技大学](https://univgo.github.io/2020/07/08/f8b31bbcc6b9)
-- [建筑学 - 西交利物浦大学](https://univgo.github.io/2020/07/08/d5e6f4b7f09d)
+- [建筑学 - 北京建筑大学](https://univgo.github.io/2020/07/08/建筑学%20-%20北京建筑大学)
+- [建筑学 - 华中科技大学](https://univgo.github.io/2020/07/08/建筑学%20-%20华中科技大学)
+- [建筑学 - 西交利物浦大学](https://univgo.github.io/2020/07/08/建筑学%20-%20西交利物浦大学)
 
 有问题请在下面留言，会及时回复的~

@@ -56,10 +56,10 @@ tags: [加州大学伯克利分校,University of California Berkeley,UCB]
 
 2 位同学填写了本校信息
 ***
-[学校（全部）](https://univgo.github.io/2020/07/08/3efa6bcca419) / [专业（全部）](https://univgo.github.io/2020/07/08/2d4c6d3552c2) / [总览页](https://univgo.github.io/2020/07/08/445daeb4fa00)
+[学校（全部）](https://univgo.github.io/2020/07/09/学校汇总页) / [专业（全部）](https://univgo.github.io/2020/07/09/专业汇总页) / [总览页](https://univgo.github.io/2020/07/09/总览)
 #### 本校专业：
-- [经济学，统计学，音乐 - UC Berkeley](https://univgo.github.io/2020/07/08/6f5d585bf003) 
-- [计算机科学（人工智能与机器学习） - 加州大学伯克利分校UC Berkeley](https://univgo.github.io/2020/07/08/5bcaa17993d3)
+- [经济学，统计学，音乐 - UC Berkeley](https://univgo.github.io/2020/07/08/经济学，统计学，音乐%20-%20加州大学伯克利分校UC%20Berkeley) 
+- [计算机科学（人工智能与机器学习） - 加州大学伯克利分校UC Berkeley](https://univgo.github.io/2020/07/08/计算机科学（人工智能与机器学习）%20-%20加州大学伯克利分校UC%20Berkeley%20Community%20College)
 
 #### 附近高校：
 - [East Los Angeles Community College](https://univgo.github.io/2020/07/08/东洛杉矶学院East%20Los%20Angeles%20College) 

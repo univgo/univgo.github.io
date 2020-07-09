@@ -50,10 +50,10 @@ tags: [东洛杉矶学院,East Los Angeles College]
 
 2 位同学填写了本校信息
 ***
-[学校（全部）](https://univgo.github.io/2020/07/08/3efa6bcca419) / [专业（全部）](https://univgo.github.io/2020/07/08/2d4c6d3552c2) / [总览页](https://univgo.github.io/2020/07/08/445daeb4fa00)
+[学校（全部）](https://univgo.github.io/2020/07/09/学校汇总页) / [专业（全部）](https://univgo.github.io/2020/07/09/专业汇总页) / [总览页](https://univgo.github.io/2020/07/09/总览)
 #### 本校专业：
-- [精算 - 东洛杉矶学院East Los Angeles College](https://univgo.github.io/2020/07/08/9160b4c65599) 
-- [社会学 - 东洛杉矶学院East Los Angeles College](https://univgo.github.io/2020/07/08/6b1a0db9cc4f) 
+- [精算 - 东洛杉矶学院East Los Angeles College](https://univgo.github.io/2020/07/08/精算%20-%20东洛杉矶学院East%20Los%20Angeles%20College) 
+- [社会学 - 东洛杉矶学院East Los Angeles College](https://univgo.github.io/2020/07/08/社会学%20-%20东洛杉矶学院East-Los-Angeles-Community-College) 
 
 #### 附近高校：
 - [加州大学洛杉矶分校UCLA](https://univgo.github.io/2020/07/08/加州大学洛杉矶分校%20UCLA)

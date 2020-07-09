@@ -53,9 +53,9 @@ tags: [墨尔本大学,The University of Melbourne]
 
 1 位同学填写了本校信息
 ***
-[学校（全部）](https://univgo.github.io/2020/07/08/3efa6bcca419) / [专业（全部）](https://univgo.github.io/2020/07/08/2d4c6d3552c2) / [总览页](https://univgo.github.io/2020/07/08/445daeb4fa00)
+[学校（全部）](https://univgo.github.io/2020/07/09/学校汇总页) / [专业（全部）](https://univgo.github.io/2020/07/09/专业汇总页) / [总览页](https://univgo.github.io/2020/07/09/总览)
 #### 本校专业：
-- [商务（会计与金融）-墨尔本大学](https://univgo.github.io/2020/07/08/10fd46cef5ce) 
+- [商务（会计与金融）-墨尔本大学](https://univgo.github.io/2020/07/08/商务（会计与金融）-%20墨尔本大学) 
 
 #### 附近高校：
 [奥克兰大学University of Auckland](https://univgo.github.io/2020/07/08/奥克兰大学University%20of%20Auckland)

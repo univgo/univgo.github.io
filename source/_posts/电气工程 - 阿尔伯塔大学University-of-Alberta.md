@@ -59,11 +59,11 @@ tags: [电气工程,阿尔伯塔大学,University of Alberta]
 
 1 位同学填写了本专业信息
 ***
-[阿尔伯塔大学University of Alberta](https://univgo.github.io/2020/07/08/阿尔伯塔大学University%20of%20Alberta) / [学校（全部）](https://univgo.github.io/2020/07/08/3efa6bcca419) / [专业（全部）](https://univgo.github.io/2020/07/08/2d4c6d3552c2) / [总览页](https://univgo.github.io/2020/07/08/445daeb4fa00)
+[阿尔伯塔大学University of Alberta](https://univgo.github.io/2020/07/08/阿尔伯塔大学University%20of%20Alberta) / [学校（全部）](https://univgo.github.io/2020/07/09/学校汇总页) / [专业（全部）](https://univgo.github.io/2020/07/09/专业汇总页) / [总览页](https://univgo.github.io/2020/07/09/总览)
 #### 本校其它专业：
-[Engineering Physics](https://univgo.github.io/2020/07/08/f3550ae5a751)
+[Engineering Physics](https://univgo.github.io/2020/07/08/Engineering%20Physics%20-%20阿尔伯塔大学%20University%20of%20Alberta)
 #### 其它学校相似专业：
-- [电气工程及其自动化 - 山东大学](https://univgo.github.io/2020/07/08/40ed0d978694)
+- [电气工程及其自动化 - 山东大学](https://univgo.github.io/2020/07/08/电气工程及其自动化%20-%20山东大学)
 
 
 有问题请在下面留言，会及时回复的~

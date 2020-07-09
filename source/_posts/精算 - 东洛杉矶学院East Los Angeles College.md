@@ -58,12 +58,12 @@ tags: [精算,东洛杉矶学院,East Los Angeles College]
 
 1 位同学填写了本专业信息
 ***
-[东洛杉矶学院East Los Angeles College](https://univgo.github.io/2020/07/08/东洛杉矶学院East%20Los%20Angeles%20College) / [学校（全部）](https://univgo.github.io/2020/07/08/3efa6bcca419) / [专业（全部）](https://univgo.github.io/2020/07/08/2d4c6d3552c2) / [总览页](https://univgo.github.io/2020/07/08/445daeb4fa00)
+[东洛杉矶学院East Los Angeles College](https://univgo.github.io/2020/07/08/东洛杉矶学院East%20Los%20Angeles%20College) / [学校（全部）](https://univgo.github.io/2020/07/09/学校汇总页) / [专业（全部）](https://univgo.github.io/2020/07/09/专业汇总页) / [总览页](https://univgo.github.io/2020/07/09/总览)
 #### 本校其它专业：
-[社会学 - 东洛杉矶学院East Los Angeles College](https://univgo.github.io/2020/07/08/6b1a0db9cc4f) 
+[社会学 - 东洛杉矶学院East Los Angeles College](https://univgo.github.io/2020/07/08/社会学%20-%20东洛杉矶学院East-Los-Angeles-Community-College) 
 #### 其它学校相似专业：
-- [经济学，统计学，音乐 - 加州大学伯克利分校UC Berkeley](https://univgo.github.io/2020/07/08/6f5d585bf003) 
-- [商务（会计与金融）- 墨尔本大学](https://univgo.github.io/2020/07/08/10fd46cef5ce) 
+- [经济学，统计学，音乐 - 加州大学伯克利分校UC Berkeley](https://univgo.github.io/2020/07/08/经济学，统计学，音乐%20-%20加州大学伯克利分校UC%20Berkeley) 
+- [商务（会计与金融）- 墨尔本大学](https://univgo.github.io/2020/07/08/商务（会计与金融）-%20墨尔本大学) 
 
 
 有问题请在下面留言，会及时回复的~

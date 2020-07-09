@@ -44,9 +44,9 @@ tags: [加州大学洛杉矶分校,UCLA]
 
 1 位同学填写了本校信息
 ***
-[学校（全部）](https://univgo.github.io/2020/07/08/3efa6bcca419) / [专业（全部）](https://univgo.github.io/2020/07/08/2d4c6d3552c2) / [总览页](https://univgo.github.io/2020/07/08/445daeb4fa00)
+[学校（全部）](https://univgo.github.io/2020/07/09/学校汇总页) / [专业（全部）](https://univgo.github.io/2020/07/09/专业汇总页) / [总览页](https://univgo.github.io/2020/07/09/总览)
 #### 本校专业：
-- [数学/经济 Math/Econ - 加州大学洛杉矶分校UCLA](https://univgo.github.io/2020/07/08/0b98fde125dc)
+- [数学/经济 Math/Econ - 加州大学洛杉矶分校UCLA](https://univgo.github.io/2020/07/08/数学%20经济%20Math%20Econ%20-%20加州大学洛杉矶分校University%20of%20California,%20Los%20Angeles)
 
 #### 附近高校：
 - [East Los Angeles Community College](https://univgo.github.io/2020/07/08/东洛杉矶学院East%20Los%20Angeles%20College) 

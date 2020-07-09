@@ -47,9 +47,9 @@ tags: [加州大学圣芭芭拉分校, University of California Santa Barbara, U
 
 1 位同学填写了本校信息
 ***
-[学校（全部）](https://univgo.github.io/2020/07/08/3efa6bcca419) / [专业（全部）](https://univgo.github.io/2020/07/08/2d4c6d3552c2) / [总览页](https://univgo.github.io/2020/07/08/445daeb4fa00)
+[学校（全部）](https://univgo.github.io/2020/07/09/学校汇总页) / [专业（全部）](https://univgo.github.io/2020/07/09/专业汇总页) / [总览页](https://univgo.github.io/2020/07/09/总览)
 #### 本校专业：
-- [心理学 - 加州大学圣芭芭拉分校University of California，Santa Barbara](https://univgo.github.io/2020/07/08/ac97e73e99dd) 
+- [心理学 - 加州大学圣芭芭拉分校University of California，Santa Barbara](https://univgo.github.io/2020/07/08/心理学%20-%20加州大学圣芭芭拉分校University%20of%20California，Santa%20Barbara) 
 
 #### 附近高校：
 - [East Los Angeles Community College](https://univgo.github.io/2020/07/08/东洛杉矶学院East%20Los%20Angeles%20College) 

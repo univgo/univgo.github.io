@@ -53,7 +53,7 @@ tags: [阿尔伯塔大学,University of Alberta]
 ![阿尔伯塔大学](http://upload-images.jianshu.io/upload_images/6506516-62e1afc6463c181b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 2 位同学填写了本校信息
 ***
-[学校（全部）](https://univgo.github.io/2020/07/08/3efa6bcca419) / [专业（全部）](https://univgo.github.io/2020/07/08/2d4c6d3552c2) / [总览页](https://univgo.github.io/2020/07/08/445daeb4fa00)
+[学校（全部）](https://univgo.github.io/2020/07/09/学校汇总页) / [专业（全部）](https://univgo.github.io/2020/07/09/专业汇总页) / [总览页](https://univgo.github.io/2020/07/09/总览)
 #### 本校专业：
 - [Engineering Physics- 阿尔伯塔大学University of Alberta](https://univgo.github.io/2020/07/08/Engineering%20Physics%20-%20%E9%98%BF%E5%B0%94%E4%BC%AF%E5%A1%94%E5%A4%A7%E5%AD%A6%20University%20of%20Alberta/) 
 - [电气工程 - 阿尔伯塔大学University of Alberta](https://univgo.github.io/2020/07/08/电气工程%20-%20阿尔伯塔大学University%20of%20Alberta) 

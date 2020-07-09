@@ -40,9 +40,9 @@ tags: [计算机科学（人工智能与机器学习）,加州大学伯克利分
 
 1 位同学填写了专业信息
 ***
-[加州大学伯克利分校UC Berkeley](https://univgo.github.io/2020/07/08/加州大学伯克利分校%20University%20of%20California,%20Berkeley) / [学校（全部）](https://univgo.github.io/2020/07/08/3efa6bcca419) / [专业（全部）](https://univgo.github.io/2020/07/08/2d4c6d3552c2) / [总览页](https://univgo.github.io/2020/07/08/445daeb4fa00) / [学校官网对本专业介绍]()
+[加州大学伯克利分校UC Berkeley](https://univgo.github.io/2020/07/08/加州大学伯克利分校%20University%20of%20California,%20Berkeley) / [学校（全部）](https://univgo.github.io/2020/07/09/学校汇总页) / [专业（全部）](https://univgo.github.io/2020/07/09/专业汇总页) / [总览页](https://univgo.github.io/2020/07/09/总览) / [学校官网对本专业介绍]()
 #### 本校其它专业：
-[经济学，统计学，音乐](https://univgo.github.io/2020/07/08/6f5d585bf003) 
+[经济学，统计学，音乐](https://univgo.github.io/2020/07/08/经济学，统计学，音乐%20-%20加州大学伯克利分校UC%20Berkeley) 
 #### 其它学校相似专业：
 
 
