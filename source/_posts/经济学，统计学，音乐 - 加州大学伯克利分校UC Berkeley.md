@@ -59,7 +59,7 @@ tags: [经济学,统计学,音乐,加州大学伯克利分校,UC Berkeley,UCB]
 
 1 位同学填写了本专业信息
 ***
-[加州大学伯克利分校UC Berkeley](https://univgo.github.io/2020/07/08/691533834d4b) / [学校（全部）](https://univgo.github.io/2020/07/08/3efa6bcca419) / [专业（全部）](https://univgo.github.io/2020/07/08/2d4c6d3552c2) / [总览页](https://univgo.github.io/2020/07/08/445daeb4fa00) / 
+[加州大学伯克利分校UC Berkeley](https://univgo.github.io/2020/07/08/加州大学伯克利分校%20University%20of%20California,%20Berkeley) / [学校（全部）](https://univgo.github.io/2020/07/08/3efa6bcca419) / [专业（全部）](https://univgo.github.io/2020/07/08/2d4c6d3552c2) / [总览页](https://univgo.github.io/2020/07/08/445daeb4fa00) / 
 学校官网对本专业介绍：
 [经济学](https://www.econ.berkeley.edu/undergrad)
 [音乐](http://music.berkeley.edu/academic-programs/undergraduate-degree-program/major-program/)

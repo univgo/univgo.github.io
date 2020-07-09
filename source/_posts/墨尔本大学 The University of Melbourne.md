@@ -58,8 +58,8 @@ tags: [墨尔本大学,The University of Melbourne]
 - [商务（会计与金融）-墨尔本大学](https://univgo.github.io/2020/07/08/10fd46cef5ce) 
 
 #### 附近高校：
-[奥克兰大学University of Auckland](https://univgo.github.io/2020/07/08/27bc301d8488)
-[悉尼大学](https://univgo.github.io/2020/07/08/42b48ed22d8e)
+[奥克兰大学University of Auckland](https://univgo.github.io/2020/07/08/奥克兰大学University%20of%20Auckland)
+[悉尼大学](https://univgo.github.io/2020/07/08/悉尼大学)
 
 
 

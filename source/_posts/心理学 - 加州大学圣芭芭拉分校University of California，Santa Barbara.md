@@ -59,7 +59,7 @@ tags: [心理学,加州大学圣芭芭拉分校,University of California Santa B
 
 1 位同学填写了本专业信息
 ***
-[加州大学圣芭芭拉分校University of California,Santa Barbara](https://univgo.github.io/2020/07/08/b003add8bcdb)
+[加州大学圣芭芭拉分校University of California,Santa Barbara](https://univgo.github.io/2020/07/08/加州大学圣芭芭拉分校%20University%20of%20California，Santa%20Barbara)
   / [学校（全部）](https://univgo.github.io/2020/07/08/3efa6bcca419) / [专业（全部）](https://univgo.github.io/2020/07/08/2d4c6d3552c2) / [总览页](https://univgo.github.io/2020/07/08/445daeb4fa00) / [学校官网对本专业介绍](https://my.sa.ucsb.edu/catalog/Current/CollegesDepartments/ls-intro/psych.aspx?DeptTab=Undergraduate)
 
 #### 其它学校相似专业：

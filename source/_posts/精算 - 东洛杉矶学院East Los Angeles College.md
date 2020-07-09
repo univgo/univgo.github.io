@@ -58,7 +58,7 @@ tags: [精算,东洛杉矶学院,East Los Angeles College]
 
 1 位同学填写了本专业信息
 ***
-[东洛杉矶学院East Los Angeles College](https://univgo.github.io/2020/07/08/1aec7ad9ce26) / [学校（全部）](https://univgo.github.io/2020/07/08/3efa6bcca419) / [专业（全部）](https://univgo.github.io/2020/07/08/2d4c6d3552c2) / [总览页](https://univgo.github.io/2020/07/08/445daeb4fa00)
+[东洛杉矶学院East Los Angeles College](https://univgo.github.io/2020/07/08/东洛杉矶学院East%20Los%20Angeles%20College) / [学校（全部）](https://univgo.github.io/2020/07/08/3efa6bcca419) / [专业（全部）](https://univgo.github.io/2020/07/08/2d4c6d3552c2) / [总览页](https://univgo.github.io/2020/07/08/445daeb4fa00)
 #### 本校其它专业：
 [社会学 - 东洛杉矶学院East Los Angeles College](https://univgo.github.io/2020/07/08/6b1a0db9cc4f) 
 #### 其它学校相似专业：

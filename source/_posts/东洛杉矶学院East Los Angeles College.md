@@ -56,13 +56,13 @@ tags: [东洛杉矶学院,East Los Angeles College]
 - [社会学 - 东洛杉矶学院East Los Angeles College](https://univgo.github.io/2020/07/08/6b1a0db9cc4f) 
 
 #### 附近高校：
-- [加州大学洛杉矶分校UCLA](https://univgo.github.io/2020/07/08/2c35063885ae)
-- [加州大学伯克利分校University of California,Berkeley](https://univgo.github.io/2020/07/08/691533834d4b) 
-- [加州大学圣芭芭拉分校University of California,Santa Barbara](https://univgo.github.io/2020/07/08/b003add8bcdb) 
-- [惠特曼学院Whitman college](https://univgo.github.io/2020/07/08/1d720faaa03c) 
-- [波士顿大学Boston University](https://univgo.github.io/2020/07/08/75c3b6cef2c5)
-- [纽约州立大学石溪分校Stony Brook University](https://univgo.github.io/2020/07/08/7b27a919ad55)
-- [阿尔伯塔大学University of Alberta](https://univgo.github.io/2020/07/08/a7200d06b3d7)
+- [加州大学洛杉矶分校UCLA](https://univgo.github.io/2020/07/08/加州大学洛杉矶分校%20UCLA)
+- [加州大学伯克利分校University of California,Berkeley](https://univgo.github.io/2020/07/08/加州大学伯克利分校%20University%20of%20California,%20Berkeley) 
+- [加州大学圣芭芭拉分校University of California,Santa Barbara](https://univgo.github.io/2020/07/08/加州大学圣芭芭拉分校%20University%20of%20California，Santa%20Barbara) 
+- [惠特曼学院Whitman college](https://univgo.github.io/2020/07/08/惠特曼学院%20Whitman%20college) 
+- [波士顿大学Boston University](https://univgo.github.io/2020/07/08/波士顿大学Boston%20University)
+- [纽约州立大学石溪分校Stony Brook University](https://univgo.github.io/2020/07/08/纽约州立大学石溪分校%20Stony%20Brook%20University)
+- [阿尔伯塔大学University of Alberta](https://univgo.github.io/2020/07/08/阿尔伯塔大学University%20of%20Alberta)
 
 
 

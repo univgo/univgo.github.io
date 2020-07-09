@@ -36,7 +36,7 @@ tags: [数学,经济,Math,Econ,加州大学洛杉矶分校,University of Califor
 
 1 位同学填写了专业信息
 ***
-[加州大学洛杉矶分校UCLA](https://univgo.github.io/2020/07/08/2c35063885ae) / [学校（全部）](https://univgo.github.io/2020/07/08/3efa6bcca419) / [专业（全部）](https://univgo.github.io/2020/07/08/2d4c6d3552c2) / [总览页](https://univgo.github.io/2020/07/08/445daeb4fa00) / [学校官网对本专业介绍]()
+[加州大学洛杉矶分校UCLA](https://univgo.github.io/2020/07/08/加州大学洛杉矶分校%20UCLA) / [学校（全部）](https://univgo.github.io/2020/07/08/3efa6bcca419) / [专业（全部）](https://univgo.github.io/2020/07/08/2d4c6d3552c2) / [总览页](https://univgo.github.io/2020/07/08/445daeb4fa00) / [学校官网对本专业介绍]()
 #### 本校其它专业：
  
 #### 其它学校相似专业：

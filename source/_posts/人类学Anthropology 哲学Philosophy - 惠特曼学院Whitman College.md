@@ -57,7 +57,7 @@ tags: [人类学,Anthropology,哲学,Philosophy,惠特曼学院,Whitman College]
 
 1 位同学填写了本专业信息
 ***
-[惠特曼学院Whitman college](https://univgo.github.io/2020/07/08/1d720faaa03c) / [学校（全部）](https://univgo.github.io/2020/07/08/3efa6bcca419) / [专业（全部）](https://univgo.github.io/2020/07/08/2d4c6d3552c2) / [总览页](https://univgo.github.io/2020/07/08/445daeb4fa00) / 
+[惠特曼学院Whitman college](https://univgo.github.io/2020/07/08/惠特曼学院%20Whitman%20college) / [学校（全部）](https://univgo.github.io/2020/07/08/3efa6bcca419) / [专业（全部）](https://univgo.github.io/2020/07/08/2d4c6d3552c2) / [总览页](https://univgo.github.io/2020/07/08/445daeb4fa00) / 
 学校官网对本专业介绍：
 [Anthropology 人类学](https://www.whitman.edu/academics/departments-and-programs/anthropology) / [Philosophy 哲学](https://www.whitman.edu/academics/departments-and-programs/philosophy)
 
