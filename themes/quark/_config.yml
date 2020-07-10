@@ -10,12 +10,12 @@ dark: false
 # 作者简介，内容会显示在 about 页面上
 # author descriptions, all these information will be displayed on about page
 author:
-  name: "Pcrab"
-  self_intro: "一个普通的大学生，爱好计算机，懒"
+  name: "朝外专业介绍"
+  self_intro: "帮助学生更好地填报志愿"
   social:
-    github: "pcrab"
-    email: "pxw0717@gmail.com"
-    telegram: "Pcrab"
+    github: ""
+    email: "zhuanyejieshao@163.com"
+    telegram: ""
     instagram: ""
     twitter: ""
     weibo: ""
