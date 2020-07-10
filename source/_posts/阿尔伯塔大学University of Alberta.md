@@ -67,4 +67,4 @@ tags: [阿尔伯塔大学,University of Alberta]
 - [波士顿大学Boston University](https://univgo.github.io/2020/07/08/%E6%B3%A2%E5%A3%AB%E9%A1%BF%E5%A4%A7%E5%AD%A6Boston%20University/)
 - [纽约州立大学石溪分校Stony Brook University](https://univgo.github.io/2020/07/08/纽约州立大学石溪分校%20Stony%20Brook%20University)
 
-有问题请在下面留言，我们会及时回复的~
+有问题可以点击下方邮箱图标发送邮件，我们会及时回复的~

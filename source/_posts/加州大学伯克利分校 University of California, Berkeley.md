@@ -72,4 +72,4 @@ tags: [加州大学伯克利分校,University of California Berkeley,UCB]
 
 
 
-有问题请在下面留言，我们会及时回复的~
+有问题可以点击下方邮箱图标发送邮件，我们会及时回复的~

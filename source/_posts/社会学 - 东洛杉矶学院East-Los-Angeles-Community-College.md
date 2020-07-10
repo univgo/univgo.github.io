@@ -67,4 +67,4 @@ tags: [社会学,东洛杉矶学院,East Los Angeles Community College]
 - [心理学 - 加州大学圣芭芭拉分校University of California，Santa Barbara](https://univgo.github.io/2020/07/08/心理学%20-%20加州大学圣芭芭拉分校University%20of%20California，Santa%20Barbara) 
 
 
-有问题请在下面留言，会及时回复的~
+有问题可以点击下方邮箱图标发送邮件，我们会及时回复的~

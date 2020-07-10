@@ -1,7 +1,7 @@
 # favicon.ico 和 icon.png 都存放在 source 文件夹中
 # "favicon.ico" and "icon.png" are stored in "source" folder
 favicon: favicon.ico
-icon: icon.png
+icon: icon.jpg
 
 # 选择是否启用黑色模式
 # choose whether to use dark mode or not
@@ -60,8 +60,7 @@ comment:
 friendlink:
   enable: true
   links:
-    - { name: "LJY's Blog", url: "https://blog.ljyngup.com", cover: "https://ljyngupdownload.oss-cn-hangzhou.aliyuncs.com/2018/07/LJYblog-300x300.jpg"}
-    - { name: "Sukoshi", url: "https://sukoshi.xyz/", desc: "十八岁基层程序猿想做涩影狮", cover: "https://s.gravatar.com/avatar/2d6b803eea37de0257620d5fabee7e64?s=200&r=g&d=retro" }
+    - { name: "阳光高考", url: "https://gaokao.chsi.com.cn/", cover: ""}
 
 # 网站成立时间，若大于等于当前年份则不会显示
 # The start year of the site which won't be shown if is beyond current
@@ -79,4 +78,4 @@ busuanzi:
 # 备案
 beian:
 
-rss: true
+rss: false

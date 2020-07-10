@@ -62,4 +62,4 @@ tags: [加州大学圣芭芭拉分校, University of California Santa Barbara, U
 
 
 
-有问题请在下面留言，我们会及时回复的~
+有问题可以点击下方邮箱图标发送邮件，我们会及时回复的~

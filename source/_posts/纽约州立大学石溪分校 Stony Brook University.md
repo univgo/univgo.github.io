@@ -61,4 +61,4 @@ tags: [纽约州立大学石溪分校,Stony Brook University]
 - [阿尔伯塔大学University of Alberta](https://univgo.github.io/2020/07/08/阿尔伯塔大学University%20of%20Alberta)
 
 
-有问题请在下面留言，我们会及时回复的~
+有问题可以点击下方邮箱图标发送邮件，我们会及时回复的~

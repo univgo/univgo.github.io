@@ -65,4 +65,4 @@ tags: [人类学,Anthropology,哲学,Philosophy,惠特曼学院,Whitman College]
 - [社会学 - 东洛杉矶学院East Los Angeles Community](https://univgo.github.io/2020/07/08/社会学%20-%20东洛杉矶学院East-Los-Angeles-Community-College) 
 
 
-有问题请在下面留言，会及时回复的~
+有问题可以点击下方邮箱图标发送邮件，我们会及时回复的~
