@@ -45,15 +45,15 @@ tags: [波士顿大学,Boston University]
 #### 10 学校补充介绍
 > BU地理位置很不错 靠近查尔斯河 对面是哈佛和MIT 除了冬天冷成狗 作业比较多之外 整体环境像度假～一年放假很长 暑期从五月中放到九月初🤗老师都很好说话 学生出路也很好 去藤校硕士的蛮多 之前学姐收到了西北的offer 但是决定去工作啦
 
-![波士顿大学](https://upload-images.jianshu.io/upload_images/6506516-76c0d0e46a409813.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![波士顿大学](https://i.loli.net/2020/07/12/BI1lpzmKGwTRfOv.jpg)
 
-![波士顿大学](https://upload-images.jianshu.io/upload_images/6506516-cfdc410aa3824731.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![波士顿大学](https://i.loli.net/2020/07/12/L6Tq3Qrsxzl1FBh.jpg)
 
-![波士顿大学](https://upload-images.jianshu.io/upload_images/6506516-9bb53e3dfbaaad18.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![波士顿大学](https://i.loli.net/2020/07/12/rxUnzafJLVbhqSC.jpg)
 
-![波士顿大学](https://upload-images.jianshu.io/upload_images/6506516-147eaef577e20471.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![波士顿大学](https://i.loli.net/2020/07/12/IO2AiJHp4Wbxszw.jpg)
 
-![波士顿大学](http://upload-images.jianshu.io/upload_images/6506516-4fd3158ed1b1ca67.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![波士顿大学](https://i.loli.net/2020/07/12/gkmGxVp8nzduhLT.jpg)
 
 1 位同学填写了本校信息
 ***
