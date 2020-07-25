@@ -7,7 +7,7 @@
 #site_title {
   margin: 0 0 0.8em 0;
   font: bold 2.5em sans-serif;
-  color: #d14e4e;
+  color: #e94d37;
 }
 #site_title::before {
   content: "< ";
@@ -21,7 +21,7 @@ foot {
 }
 foot a {
   font-size: 1em;
-  color: #d14e4e;
+  color: #e94d37;
 }
 .boldline {
   border: none;
@@ -55,7 +55,7 @@ svg.icon:hover {
   font-size: 2.2em;
 }
 .index_list #index_post_title:hover {
-  color: #d14e4e;
+  color: #e94d37;
 }
 .index_list .blank {
   margin: 1em auto;
@@ -64,7 +64,7 @@ svg.icon:hover {
   display: inline;
   padding: 0.3% 1.5%;
   margin-right: 3%;
-  border: 0.15em #d14e4e solid;
+  border: 0.15em #e94d37 solid;
   border-radius: 0.5em;
   font-weight: bold;
   font-size: 1em;
@@ -73,7 +73,7 @@ svg.icon:hover {
   font-size: 1em;
 }
 .index_list .index_post_excerpt a {
-  color: #d14e4e;
+  color: #e94d37;
   font-size: 1em;
 }
 .page_num {
@@ -109,15 +109,15 @@ p {
 }
 a {
   text-decoration: none;
-  color: #d14e4e;
+  color: #e94d37;
 }
 a:hover {
-  color: #ff4848;
+  color: #f63;
 }
 blockquote {
   margin: 0.3em 0;
   padding: 0.1em 2em;
-  border-left: 0.6em #d14e4e solid;
+  border-left: 0.6em #e94d37 solid;
   background-color: #f6f0f0;
 }
 html {

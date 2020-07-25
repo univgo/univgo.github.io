@@ -7,7 +7,7 @@
   width: 100%;
   font-size: 1.3em;
   border-radius: 0.3em;
-  border: 0.1em solid #d14e4e;
+  border: 0.1em solid #e94d37;
 }
 .local-search-result-cls .local-search-empty {
   color: #ff4848;
@@ -32,7 +32,7 @@
   margin-top: 20px;
 }
 .local-search-result-cls li a:hover {
-  color: #d14e4e;
+  color: #e94d37;
 }
 .local-search-result-cls li p {
   font-size: 1em;
